@@ -1,12 +1,19 @@
 # PengalamanBelajarDicoding
-13 Agustus 2023
+
+Repository Ini Berisi Pengalaman Belajar di Dicoding
+
+
+**13 Agustus 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-13 Agustus 2023
+
+**13 Agustus 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
